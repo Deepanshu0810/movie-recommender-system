@@ -4,5 +4,4 @@ pandas
 scikit-learn
 pickle5
 streamlit
-os
 requests
